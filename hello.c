@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 
-int main() {
+int main(void) {
     
-    int arr[5] = {4, 3, 3, 3, 3}; 
+    int arr[1] = {4}; 
     printf("Hello World!");
     
     printf("%d", arr[0] ); 
